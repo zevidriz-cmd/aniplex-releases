@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.1/app-debug.apk",
-  "changelog": "• Overhauled TV detail page layout with side-by-side Season & Episode panels\n• Fixed remote double-click wakeup/playback action bug\n• Added settings menu vertical focus trapping and active item focus routing\n• Disabled background controls while playback settings panel is open"
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "downloadUrl": "https://raw.githubusercontent.com/zevidriz-cmd/aniplex-releases/main/app-debug.apk",
+  "changelog": "• Fixed D-Pad vertical focus traps on the TV Detail Screen\n• Intercepted hardware Back/Exit keys inside the media player\n• Resolved settings menu OK/Select key execution issues\n• Fixed double-click wakeup bugs on playback controller overlays"
 }
