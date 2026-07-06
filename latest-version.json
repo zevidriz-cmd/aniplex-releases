@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.5",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.5/app-debug.apk",
-  "changelog": "• Complete player remote interaction rewrite\n• Back/Exit key follows 3-tier hierarchy: Settings → Controls → Exit\n• All player buttons fire on single OK press (no more double-click)\n• Settings items respond to single tap (no long-press required)\n• Timeline is now D-pad focusable with Left/Right seeking"
+  "versionCode": 9,
+  "versionName": "1.2.6",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.6/app-debug.apk",
+  "changelog": "• Fixed settings menu Back key double-click trap (closes on first press now)\n• Mapped remote hardware Fast-Forward and Rewind keys to ±10s seeking"
 }
