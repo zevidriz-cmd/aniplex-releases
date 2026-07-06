@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.6",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.6/app-debug.apk",
-  "changelog": "• Fixed settings menu Back key double-click trap (closes on first press now)\n• Mapped remote hardware Fast-Forward and Rewind keys to ±10s seeking"
+  "versionCode": 10,
+  "versionName": "1.2.7",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.7/app-debug.apk",
+  "changelog": "• Fixed double-click state trap on Skip Intro/Outro buttons by replacing them with key-aware Box layouts.\n• Added centered CircularProgressIndicator buffering/loading overlay during stream seek latency."
 }
