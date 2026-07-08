@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.7",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.7/app-debug.apk",
-  "changelog": "• Fixed double-click state trap on Skip Intro/Outro buttons by replacing them with key-aware Box layouts.\n• Added centered CircularProgressIndicator buffering/loading overlay during stream seek latency."
+  "versionCode": 11,
+  "versionName": "1.2.8",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.8/app-debug.apk",
+  "changelog": "• Optimized Detail Page scroll transitions & smooth navigation animations.\n• Integrated custom Coil Image Loader memory/disk caching & shimmer placeholding.\n• Resolved Skip Intro/Outro remote click bugs and added Centered Buffering overlay."
 }
