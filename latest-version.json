@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.8",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.8/app-debug.apk",
-  "changelog": "• Optimized Detail Page scroll transitions & smooth navigation animations.\n• Integrated custom Coil Image Loader memory/disk caching & shimmer placeholding.\n• Resolved Skip Intro/Outro remote click bugs and added Centered Buffering overlay."
+  "versionCode": 12,
+  "versionName": "1.2.9",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.9/app-debug.apk",
+  "changelog": "• Custom tvBringIntoViewSpec integration for smooth, custom-positioned vertical list focus scrolling.\n• Optimized Continue Watching row layout on TV home screen.\n• Included detail page smooth transitions & Coil caching enhancements."
 }
