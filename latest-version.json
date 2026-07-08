@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.9",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.2.9/app-debug.apk",
-  "changelog": "• Custom tvBringIntoViewSpec integration for smooth, custom-positioned vertical list focus scrolling.\n• Optimized Continue Watching row layout on TV home screen.\n• Included detail page smooth transitions & Coil caching enhancements."
+  "versionCode": 13,
+  "versionName": "1.3.0",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.0/app-debug.apk",
+  "changelog": "• Offloaded image color extraction and database queries to Dispatchers.IO to solve home screen lag.\n• Refactored ScrollDayHeader to limit recomposition frequency.\n• Optimization of background gradient rendering using drawBehind."
 }
