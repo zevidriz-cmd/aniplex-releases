@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.3",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.3/app-debug.apk",
-  "changelog": "• Fixed player initial progress initialization check on subsequent episode switches."
+  "versionCode": 17,
+  "versionName": "1.3.4",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.4/app-debug.apk",
+  "changelog": "• Integrated automatic progress saves of previous episodes during transitions.\n• Offloaded unnecessary anime details reloading if switching episodes within the same title.\n• Added try-catch guards to WebView cleanup on dispose and reset steps.\n• Unique notification ID support for downloading items to avoid overwrite loops."
 }
