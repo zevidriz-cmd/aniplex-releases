@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.3.2",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.2/app-debug.apk",
-  "changelog": "• Integrated activeEpisodeId player state retention to prevent Zoro extraction resets during episode switches.\n• Expanded ExoPlayer subtitle style settings with custom Typefaces (serif, monospace, bold) and more colors (green, blue, pink, black).\n• Fixed Web page detail view episode sorting and player progress handler checks."
+  "versionCode": 16,
+  "versionName": "1.3.3",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.3/app-debug.apk",
+  "changelog": "• Fixed player initial progress initialization check on subsequent episode switches."
 }
