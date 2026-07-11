@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.3.6",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.6/app-debug.apk",
-  "changelog": "• Wipes WebView cache, form data, local web storage, and session cookies on new episode transitions to prevent Cloudflare/Zoro leaks."
+  "versionCode": 20,
+  "versionName": "1.3.7",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.7/app-debug.apk",
+  "changelog": "• Integrated a Backup Server Selector overlay for seamless switching between backup iframe streams (MegaPlay, VidSrc, Embed.su).\n• Proxied fallback subtitle track URLs through anistream-proxy to bypass CORS validation issues."
 }
