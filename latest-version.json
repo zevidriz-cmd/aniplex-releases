@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.1",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.1/app-debug.apk",
-  "changelog": "• Deferred WebView destruction to main thread event loop ticks, avoiding lifecycle attachment warnings.\n• Performs synchronous about:blank loads to halt all active background media playbacks cleanly."
+  "versionCode": 25,
+  "versionName": "1.4.2",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.2/app-debug.apk",
+  "changelog": "• Injected automatic sound muting and MutationObserver scripts to silence background sniffer WebView streams.\n• Retains local playback playWhenReady state during player updates and server swaps."
 }
