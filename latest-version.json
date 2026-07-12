@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.4.3",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.3/app-debug.apk",
-  "changelog": "• Defer ExoPlayer audio/video playback triggers until STATE_READY to prevent audio leak before video surface attachment completes."
+  "versionCode": 27,
+  "versionName": "1.4.4",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.4/app-debug.apk",
+  "changelog": "• Enabled mediaPlaybackRequiresUserGesture inside sniffer WebView to prevent audio focus hijacking.\n• Wipes previous extraction headers and cookies on player state resets."
 }
