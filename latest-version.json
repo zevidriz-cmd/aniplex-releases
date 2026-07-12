@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.0",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.0/app-debug.apk",
-  "changelog": "• Wipes active media contexts and detaches WebViews from parent view layouts before destruction, resolving background playback leaks and memory locks."
+  "versionCode": 24,
+  "versionName": "1.4.1",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.1/app-debug.apk",
+  "changelog": "• Deferred WebView destruction to main thread event loop ticks, avoiding lifecycle attachment warnings.\n• Performs synchronous about:blank loads to halt all active background media playbacks cleanly."
 }
