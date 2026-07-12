@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.3.9",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.3.9/app-debug.apk",
-  "changelog": "• Added Preferred Streaming Provider setting under TV settings (Zoro/Gogoanime).\n• Displays active fallback provider message dynamically on the player loading screen.\n• Automatically resets screen brightness settings when closing the player.\n• Dynamically reassigns ExoPlayer instances during player layout updates."
+  "versionCode": 23,
+  "versionName": "1.4.0",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.0/app-debug.apk",
+  "changelog": "• Wipes active media contexts and detaches WebViews from parent view layouts before destruction, resolving background playback leaks and memory locks."
 }
