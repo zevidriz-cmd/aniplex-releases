@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.2",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.2/app-debug.apk",
-  "changelog": "• Injected automatic sound muting and MutationObserver scripts to silence background sniffer WebView streams.\n• Retains local playback playWhenReady state during player updates and server swaps."
+  "versionCode": 26,
+  "versionName": "1.4.3",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.3/app-debug.apk",
+  "changelog": "• Defer ExoPlayer audio/video playback triggers until STATE_READY to prevent audio leak before video surface attachment completes."
 }
