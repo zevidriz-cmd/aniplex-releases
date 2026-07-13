@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.4.6",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.6/app-debug.apk",
-  "changelog": "• Optimized search suggestions with background pre-resolving of the top results.\n• Ensures the current season is injected into the seasons list if missing from the Jikan API query."
+  "versionCode": 30,
+  "versionName": "1.4.7",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.7/app-debug.apk",
+  "changelog": "• Integrated a dedicated Seasonal Screen for tracking current anime seasons.\n• Updated TV dashboard layout shell, navigation elements, and search database queries.\n• Fixed web client detail page episode layout queries."
 }
