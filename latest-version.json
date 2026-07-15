@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.8",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.8/app-debug.apk",
-  "changelog": "• Added Jikan-based title search fallback to resolve MAL IDs when direct mapping fails.\n• Implemented deduplication of seasons by their resolved catalog ID to prevent rendering duplicate listings.\n• Optimizations for static MAL mappings in the web dashboard services."
+  "versionCode": 32,
+  "versionName": "1.4.9",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.9/app-debug.apk",
+  "changelog": "• Updated MAL resolution fallback queries with improved Anikoto mapping data.\n• Web detail page and search page improvements.\n• Various stability and performance improvements."
 }
