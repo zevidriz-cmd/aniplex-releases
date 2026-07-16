@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.4.9",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.4.9/app-debug.apk",
-  "changelog": "• Updated MAL resolution fallback queries with improved Anikoto mapping data.\n• Web detail page and search page improvements.\n• Various stability and performance improvements."
+  "versionCode": 33,
+  "versionName": "1.5.0",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.0/app-debug.apk",
+  "changelog": "• Resolves video player autoplay contamination issues.\n• Fixes subtitle dropouts during media playback.\n• Performance and stability enhancements for playback components."
 }
