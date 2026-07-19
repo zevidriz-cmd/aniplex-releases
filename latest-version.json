@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.5.6",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.6/app-debug.apk",
-  "changelog": "• Enabled ProGuard code minification & resource shrinking with custom rules.\n• Refined navigation transition animations for a smoother feel.\n• Improved Hilt EntryPoint injection for DownloadManager and DownloadWorker."
+  "versionCode": 40,
+  "versionName": "1.5.7",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.7/app-debug.apk",
+  "changelog": "• Added step-by-step diagnostic logging for programmatic Zoro stream extraction.\n• Optimized WebView sniffer timeout to 12 seconds for faster playback fallback."
 }
