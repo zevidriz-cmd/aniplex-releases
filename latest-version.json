@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.5.2",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.2/app-debug.apk",
-  "changelog": "• Improved season grouping, deduplication, and Special format classification (including AoT Part 3).\n• Fixed episode mapping and title matching logic."
+  "versionCode": 36,
+  "versionName": "1.5.3",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.3/app-debug.apk",
+  "changelog": "• Fixed subtitle fallback notice behavior and video player controls.\n• Improved franchise season history deduplication and resolvedId mappings."
 }
