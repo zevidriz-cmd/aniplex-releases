@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.5.3",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.3/app-debug.apk",
-  "changelog": "• Fixed subtitle fallback notice behavior and video player controls.\n• Improved franchise season history deduplication and resolvedId mappings."
+  "versionCode": 37,
+  "versionName": "1.5.4",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.4/app-debug.apk",
+  "changelog": "• Cross-season seamless autoplay when completing the final episode of a season.\n• Prequel completion status indicators and smart Watch/Resume button behavior.\n• Added show title & episode subtitle bar under video player."
 }
