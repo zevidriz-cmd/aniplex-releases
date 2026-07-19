@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.6.0",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.0/app-debug.apk",
-  "changelog": "• Refactored nextFranchiseSeason autoplay logic to strictly check and transition between main TV seasons.\n• Clean up season history entries specifically for main franchise entries to avoid state contamination."
+  "versionCode": 44,
+  "versionName": "1.6.1",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.1/app-debug.apk",
+  "changelog": "• Integrated a zero-latency local watch history cache to enable instantaneous playback resumption.\n• Synchronizes local watch progress seamlessly with Firestore in the background."
 }
