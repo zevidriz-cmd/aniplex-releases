@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.5.8",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.8/app-debug.apk",
-  "changelog": "• Pre-populate subtitles from programmatic stream extraction results.\n• Added direct Diagnostics & Log Export button to the video player overlay.\n• Added Playback Diagnostics & Cookie Capture toggle in Settings."
+  "versionCode": 42,
+  "versionName": "1.5.9",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.9/app-debug.apk",
+  "changelog": "• Pre-populate subtitles from programmatic stream extraction results.\n• Added direct Diagnostics & Log Export button to the video player overlay.\n• Fixed DetailScreen onPlayClick callbacks and chunk selection dialog variables."
 }
