@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.5.1",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.1/app-debug.apk",
-  "changelog": "• Resolves video player autoplay contamination and subtitle dropouts.\n• Fixes false positive fallback loops by pre-populating Zoro subtitles from API response."
+  "versionCode": 35,
+  "versionName": "1.5.2",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.5.2/app-debug.apk",
+  "changelog": "• Improved season grouping, deduplication, and Special format classification (including AoT Part 3).\n• Fixed episode mapping and title matching logic."
 }
