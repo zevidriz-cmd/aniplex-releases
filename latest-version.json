@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.6.1",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.1/app-debug.apk",
-  "changelog": "• Integrated a zero-latency local watch history cache to enable instantaneous playback resumption.\n• Synchronizes local watch progress seamlessly with Firestore in the background."
+  "versionCode": 45,
+  "versionName": "1.6.2",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.2/app-debug.apk",
+  "changelog": "• Refined media source change and server switching logic to ensure playback progress restoration is fully reliable and does not reset to 0:00."
 }
