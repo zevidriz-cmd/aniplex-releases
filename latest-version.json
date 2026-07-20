@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.6.2",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.2/app-debug.apk",
-  "changelog": "• Refined media source change and server switching logic to ensure playback progress restoration is fully reliable and does not reset to 0:00."
+  "versionCode": 46,
+  "versionName": "1.6.3",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.3/app-debug.apk",
+  "changelog": "• Expanded subtitle language parsing for Portuguese, Vietnamese, Japanese, Russian, Korean, and dynamic filename pattern matching.\n• Persisted selected subtitle track preferences across stream and episode switches."
 }
