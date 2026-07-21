@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.6.3",
-  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.3/app-debug.apk",
-  "changelog": "• Expanded subtitle language parsing for Portuguese, Vietnamese, Japanese, Russian, Korean, and dynamic filename pattern matching.\n• Persisted selected subtitle track preferences across stream and episode switches."
+  "versionCode": 47,
+  "versionName": "1.6.4",
+  "downloadUrl": "https://github.com/zevidriz-cmd/aniplex-releases/releases/download/v1.6.4/app-debug.apk",
+  "changelog": "• Enhanced fallback stream extraction and title resolution handling.\n• Added customizable subtitle text styling, outline, background opacity, and font sizes.\n• Optimized AniNeko scraper server matching with direct epUrl resolution."
 }
